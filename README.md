@@ -22,13 +22,6 @@
 <h2 align="center"> Check me on your favourite platform </h2>
 
 [<img src="https://img.shields.io/badge/Linkedin-Aman Kuliyal-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/aman-kuliyal-11043107/)
-[<img src="https://img.shields.io/badge/Leetcode-Aman Kuliyal-blue?logo=Leetcode&style=for-the-badge">](https://leetcode.com/AmanKuliyal/)
-[<img src="https://img.shields.io/badge/Codeforces-Aman Kuliyal-blue?logo=Codeforces&style=for-the-badge">](https://codeforces.com/profile/Iconic404)
-[<img src="https://img.shields.io/badge/Codechef-Aman Kuliyal-blue?logo=Codechef&style=for-the-badge">](https://www.codechef.com/users/aman0011)
-[<img src="https://img.shields.io/badge/Hackerrank-Aman Kuliyal-blue?logo=hackerrank&style=for-the-badge">](https://www.hackerrank.com/1devyansh1)
-[<img src="https://img.shields.io/badge/Geeksforgeeks-Aman Kuliyal-blue?logo=geeksforgeeks&style=for-the-badge">](https://auth.geeksforgeeks.org/user/1devyansh1/practice/)
-[<img src="https://img.shields.io/badge/Sololearn-Aman Kuliyal-blue?logo=sololearn&style=for-the-badge">](https://www.sololearn.com/profile/20680575)
-
 
 ___
 
