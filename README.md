@@ -1,11 +1,13 @@
 
 
-<h1 align="center">Hi 👋, I'm Aman Kuliyal</h1>
-<h3 align="center">A passionate MERN Stack Developer and Competitive Programmer from India, Frontend Designing is my pro thing!</h3>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Aman Kuliyal</h1>
+<h3 align="center">A passionate MERN Stack Developer and Competitive Programmer from India, Frontend Designing is my pro thing!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iconic-it-is&label=Profile%20views&color=0e75b6&style=flat" alt="iconic-it-is" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif">
+
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
 - 🌱 I’m currently learning **Competitive Programming**
@@ -23,25 +25,18 @@
 
 [<img src="https://img.shields.io/badge/Linkedin-Aman Kuliyal-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/aman-kuliyal-11043107/)
 
-___
-
-### 📈 **Github Stats**
-
-<!--
-<a href="https://github.com/Iconic-It-Is">
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=Iconic-It-Is&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true">
-</a>
-<a href="https://github.com/Iconic-It-Is/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iconic-it-is&show_icons=true&locale=en" alt="iconic-it-is" />
-</a>
--->
-
 ---
 
+<h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iconic-It-Is&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iconic-It-Is&theme=tokyonight" alt="Iconic-It-Is" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Iconic-It-Is" alt="Iconic-It-Is" />
 </p>
 
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 <!--
 **Iconic-It-Is/Iconic-It-Is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
