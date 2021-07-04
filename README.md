@@ -1,6 +1,11 @@
 
 
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Aman Kuliyal</h1>
+<!--<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Aman Kuliyal</h1>-->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Aman+Kuliyal.;Welcome+to+my+profile!&center=true&size=29">
+  </a>
+</h1>
 <h3 align="center">A passionate MERN Stack Developer and Competitive Programmer from India, Frontend Designing is my pro thing!
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h3>
 
@@ -30,12 +35,17 @@
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iconic-It-Is&theme=tokyonight" alt="Iconic-It-Is" />
-<img src="https://activity-graph.herokuapp.com/graph?username=Iconic-It-Is" alt="Iconic-It-Is" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Iconic-It-Is&theme=react&background=0d1117&border=666">
+  </a>
+    <a href="https://github.com/Iconic-It-Is/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Iconic-It-Is&theme=react-dark&hide_border=true">
+  </a>
 </p>
 
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> 
+
 <br />
 <!--
 **Iconic-It-Is/Iconic-It-Is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
