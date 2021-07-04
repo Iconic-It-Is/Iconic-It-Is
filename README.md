@@ -3,7 +3,7 @@
 <!--<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Aman Kuliyal</h1>-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Aman+Kuliyal.;Welcome+to+my+profile!&center=true&size=29">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Welcome+to+my+profile!&center=true&size=29">
   </a>
 </h1>
 <h3 align="center">A passionate MERN Stack Developer and Competitive Programmer from India, Frontend Designing is my pro thing!
@@ -44,7 +44,7 @@
 </p>
 
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> 
+<img height="120" alt="Thanks for visiting me!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> 
 
 <br />
 <!--
