@@ -11,9 +11,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iconic-it-is&label=Profile%20views&color=0e75b6&style=flat" alt="iconic-it-is" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
+
 
 - 🌱 I’m currently learning **Competitive Programming**
 
