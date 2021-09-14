@@ -16,7 +16,7 @@
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently learning **Competitive Programming and Core CS**
 
 - 👨‍💻 All of my projects are available at [https://shielded-gorge-61801.herokuapp.com/](https://shielded-gorge-61801.herokuapp.com/)
 
@@ -35,13 +35,8 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Iconic-It-Is&theme=react&background=0d1117&border=666">
-  </a>
-    <a href="https://github.com/Iconic-It-Is/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Iconic-It-Is&theme=react-dark&hide_border=true">
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Iconic-It-Is&show_icons=true" alt="sachin10101998" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iconic-It-Is"alt="sachin10101998" />
 </p>
 
 
