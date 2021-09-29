@@ -18,8 +18,6 @@
 
 - 🌱 I’m currently learning **Competitive Programming and Core CS**
 
-- 👨‍💻 All of my projects are available at [https://shielded-gorge-61801.herokuapp.com/](https://shielded-gorge-61801.herokuapp.com/)
-
 - 💬 Ask me about **MERN stack tools and tech**
 
 - 📫 How to contact me **1devyansh1@gmail.com**
