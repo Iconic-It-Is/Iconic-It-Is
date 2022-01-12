@@ -31,7 +31,7 @@
 
 ---
 
-<h2 align="center">🐦 Github Statistics </h2>
+<!-- <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Iconic-It-Is&show_icons=true" alt="sachin10101998" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iconic-It-Is"alt="sachin10101998" />
@@ -39,7 +39,7 @@
 
 
 <img height="120" alt="Thanks for visiting me!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> 
-
+ -->
 <br />
 <!--
 **Iconic-It-Is/Iconic-It-Is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
